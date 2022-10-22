@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Bilal Avvad",
+    "image": "./images/bilal.png",
+    "alt": "Bilal Avvad",
+    "linkedin": "https://www.linkedin.com/in/bilal-avvad/",
+    "email": "mailto:awadbilal99@gmail.com"
+  },
+  {
+    "name": "Moumen Hallak",
+    "image": "./images/moumen.jpg",
+    "alt": "Moumen Hallak",
+    "linkedin": "https://www.linkedin.com/in/moumen-hallak/",
+    "email": "mailto:moumen95@gmail.com"
+  },
+  {
+    "name": "Yeşim Nur Akar",
+    "image": "./images/yesim.jpg",
+    "alt": "Yeşim Nur Akar",
+    "linkedin": "https://www.linkedin.com/in/yesimnurakar/",
+    "email": "mailto:yesimnurakar@gmail.com"
+  }
+]

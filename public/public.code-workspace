@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "public",
+			"path": "."
+		},
+		{
+			"name": "src",
+			"path": "../src"
+		},
+		{
+			"name": "sea-saver-recoded",
+			"path": "../../Documents/GitHub/sea-saver-recoded"
+		}
+	],
+	"settings": {}
+}
